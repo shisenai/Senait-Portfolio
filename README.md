@@ -51,7 +51,7 @@ Tools: GVA, DBHYDRO, SQL
 
 ![Power BI Dashboard](Images/PoweBi%20Qe7.PNG)
 
-![Project Review Dashboard](Images/TotalReview.PNG)
+
 Developed interactive dashboards to support environmental monitoring and decision-making. Created visual reports that improved access to operational and scientific data.
 
 Tools: Power BI, SQL, Excel
@@ -62,6 +62,7 @@ Applied Linear Regression, KNN, and Random Forest algorithms to analyze hydrolog
 Tools: Python, Pandas, Scikit-Learn
 
 ### Databricks Metadata Management
+![Project Review Dashboard](Images/TotalReview.PNG)
 Implemented metadata management, data governance, and medallion architecture concepts using Databricks and Unity Catalog.
 
 Tools: Databricks, Spark, Unity Catalog
