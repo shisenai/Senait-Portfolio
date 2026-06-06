@@ -52,10 +52,4 @@ I am an Environmental Data Analyst and Database Administrator with over 10 years
 
 ## Resume
 
-Resume available in this repository.
-
-Replace with:
-
-## Resume
-
 [Download Resume](Resume_Senait_Gebriye_05282026.pdf)
