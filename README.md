@@ -66,5 +66,16 @@ Designed and optimized relational databases while developing SQL queries and rep
 Tools: Oracle, SQL Server, MySQL
 
 ## Resume
+## Research & Presentations
+
+### Integrated Data Analytics and Machine Learning for Environmental Time-Series Analysis
+
+Poster Presentation
+
+University of Minnesota
+CSDMS Annual Meeting
+May 2026
+
+Developed a framework for environmental time-series analysis using statistical and machine learning techniques, including Linear Regression, KNN, and Random Forest models for hydrologic applications.
 
 [Download Resume](Resume_Senait_Gebriye_05282026.pdf)
