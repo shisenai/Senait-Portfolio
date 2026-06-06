@@ -14,14 +14,29 @@ I am an Environmental Data Analyst and Database Administrator with over 10 years
 
 ## Technical Skills
 
+### Databases
+- Oracle Database
+- Microsoft SQL Server
+- MySQL
+- Microsoft Access
+
+### Analytics & Programming
 - SQL
 - Python
+- Databricks
+- SAS Viya
+- C#
+
+### Data Visualization
 - Power BI
 - Tableau
-- Databricks
-- Oracle
-- SQL Server
-- MySQL
+- Microsoft Excel
+
+### Environmental Systems
+- DBHYDRO
+- GVA
+- SWAT
+- Data Depot
 
 ## Featured Projects
 
