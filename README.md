@@ -54,8 +54,8 @@ I am an Environmental Data Analyst and Database Administrator with over 10 years
 
 Resume available in this repository.
 
-## Contact
+Replace with:
 
-Email: senaitgebriye@gmail.com
+## Resume
 
-Location: Boynton Beach, Florida
+[Download Resume](Resume_Senait_Gebriye_05282026.pdf)
