@@ -79,3 +79,13 @@ May 2026
 Developed a framework for environmental time-series analysis using statistical and machine learning techniques, including Linear Regression, KNN, and Random Forest models for hydrologic applications.
 
 [Download Resume](Resume_Senait_Gebriye_05282026.pdf)
+
+## Contact
+
+📧 senaitgebriye@gmail.com
+
+📍 Boynton Beach, Florida
+
+GitHub: https://github.com/shisenai
+
+ https://www.linkedin.com/in/senait-gebriye/
