@@ -41,14 +41,29 @@ I am an Environmental Data Analyst and Database Administrator with over 10 years
 ## Featured Projects
 
 ### Environmental Data Validation and Quality Assurance
+Performed quality assurance and validation of hydrologic and meteorological datasets from over 190 monitoring stations. Investigated anomalies, ensured data integrity, and maintained compliance with environmental standards.
+
+Tools: GVA, DBHYDRO, SQL
 
 ### Power BI Environmental Dashboard
+Developed interactive dashboards to support environmental monitoring and decision-making. Created visual reports that improved access to operational and scientific data.
+
+Tools: Power BI, SQL, Excel
 
 ### Machine Learning for Hydrologic Time-Series Analysis
+Applied Linear Regression, KNN, and Random Forest algorithms to analyze hydrologic time-series data and improve environmental forecasting.
+
+Tools: Python, Pandas, Scikit-Learn
 
 ### Databricks Metadata Management
+Implemented metadata management, data governance, and medallion architecture concepts using Databricks and Unity Catalog.
+
+Tools: Databricks, Spark, Unity Catalog
 
 ### SQL Database Analytics
+Designed and optimized relational databases while developing SQL queries and reports to support environmental and business analytics.
+
+Tools: Oracle, SQL Server, MySQL
 
 ## Resume
 
