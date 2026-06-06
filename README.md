@@ -1,3 +1,4 @@
+<img src="Images/IMG_9790.PNG" width="220">
 # Senait Amare Gebriye
 
 ## Environmental Data Analyst | Database Administrator | Data Analytics & AI Graduate Student
@@ -46,6 +47,11 @@ Performed quality assurance and validation of hydrologic and meteorological data
 Tools: GVA, DBHYDRO, SQL
 
 ### Power BI Environmental Dashboard
+#### Dashboard Examples
+
+![Power BI Dashboard](Images/PoweBi%20Qe7.PNG)
+
+![Project Review Dashboard](Images/TotalReview.PNG)
 Developed interactive dashboards to support environmental monitoring and decision-making. Created visual reports that improved access to operational and scientific data.
 
 Tools: Power BI, SQL, Excel
