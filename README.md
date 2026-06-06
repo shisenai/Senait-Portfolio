@@ -86,6 +86,6 @@ Developed a framework for environmental time-series analysis using statistical a
 
 📍 Boynton Beach, Florida
 
-GitHub: https://github.com/shisenai
+GitHub: [shisenai](https://github.com/shisenai)
 
- https://www.linkedin.com/in/senait-gebriye/
+LinkedIn: [Senait Gebriye](https://www.linkedin.com/in/senait-gebriye/)
