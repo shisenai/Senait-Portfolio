@@ -1,3 +1,3 @@
 ## Portfolio Presentation
 
-[Download Portfolio Presentation](Presentations/portfoliopower.pptx)
+📊 [Download Portfolio Presentation](Presentations/portfoliopower.pptx)
