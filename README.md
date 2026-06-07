@@ -44,6 +44,7 @@ I am an Environmental Data Analyst and Database Administrator with over 10 years
 
 📊 [Download Portfolio Presentation](Presentations/portfoliopower.pptx)
 
+
 ### Environmental Data Validation and Quality Assurance
 Performed quality assurance and validation of hydrologic and meteorological datasets from over 190 monitoring stations. Investigated anomalies, ensured data integrity, and maintained compliance with environmental standards.
 
