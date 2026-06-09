@@ -1,3 +1,4 @@
+# Featured Dashboards
 # Environmental Monitoring Dashboard
 
 Power BI dashboard developed for water resources and environmental monitoring.
